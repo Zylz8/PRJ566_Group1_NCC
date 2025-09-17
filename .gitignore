@@ -1,1 +1,53 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Coverage/testing
+coverage/
+*.lcov
+
+# Database (if using SQLite locally)
+*.sqlite
+*.sqlite-journal
+
+# Misc cache
+.cache/
+.parcel-cache/
+.next/cache/
+
+# Docker (if applicable)
+docker-compose.override.yml
+
+# Temporary files
+tmp/
 
