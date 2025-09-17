@@ -4,9 +4,7 @@
 
 
 # Project Summary
-HobbySwap is a web-based trading and marketplace platform designed for collctors
-
-of all kinds - from trading cards and figurines to blind boxes and beyond.
+HobbySwap is a web-based trading and marketplace platform designed for collctors of all kinds - from trading cards and figurines to blind boxes and beyond.
 
 
 # Team Roles
