@@ -1,21 +1,23 @@
-# ***HobbySwap*** - PRJ566_GROUP1_NCC
+# **HobbySwap**
 <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/b4031138-6e50-4338-9d1f-28de98ef5041" />
 
 
 
-# Project Summary
+# **Project Summary**
 HobbySwap is a web-based trading and marketplace platform designed for collctors of all kinds - from trading cards and figurines to blind boxes and beyond.
 
 
-# Team Roles
-Aaron Ngo: Project Lead
+# **Team Roster & Roles**
+**Group 1 - NCC - Seneca Polytechnic (PRJ566: Project Planning and Management)**
 
-Angela Marie Tagudin Chua: Frontend Developer  
+- **Aaron Ngo** - Project Lead
 
-Jackey Zhou: Business Analyst   
+- **Angela Marie Tagudin Chua** - Frontend Developer  
 
-Minh Thu Lu: UI/UX Designer  
+- **Jackey Zhou** - Business Analyst   
 
-Trung Kien Phan: Backend Developer  
+- **Minh Thu Lu** - UI/UX Designer  
+
+- **Trung Kien Phan** - Backend Developer  
 
 
