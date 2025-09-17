@@ -1,9 +1,12 @@
 # HobbySwap
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/b4031138-6e50-4338-9d1f-28de98ef5041" />
 
 
 
-# Team Summary
+# Project Summary
+HobbySwap is a web-based trading and marketplace platform designed for collctors
 
+of all kinds - from trading cards and figurines to blind boxes and beyond.
 
 
 # Team Roles
